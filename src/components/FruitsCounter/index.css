@@ -1,0 +1,51 @@
+.fruits-container {
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+  padding-top: 50px;
+}
+.card {
+  background: white;
+  margin: auto;
+  width: 92%;
+  max-width: 800px;
+  height: 80%;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+  padding-top: 50px;
+}
+.fruit-count {
+  color: #ffd569;
+  font-family: 'Roboto';
+}
+.img1 {
+  height: 180px;
+  width: 168px;
+  margin-left: 70px;
+}
+.img2 {
+  height: 180px;
+  width: 160px;
+  margin-left: 320px;
+}
+.Btn1 {
+  color: #ffffff;
+  background-color: #007bff;
+  font-family: 'Roboto';
+  border: 0px;
+  margin-top: 25px;
+  margin-left: 130px;
+  cursor: pointer;
+}
+.Btn2 {
+  color: #ffffff;
+  background-color: #007bff;
+  font-family: 'Roboto';
+  border: 0px;
+  margin-left: 370px;
+  margin-top: 25px;
+  cursor: pointer;
+}
